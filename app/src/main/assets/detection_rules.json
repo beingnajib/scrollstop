@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "package": "com.instagram.android",
+      "target": "INSTAGRAM_REELS",
+      "matchType": "VIEW_ID",
+      "value": "com.instagram.android:id/clips_tab",
+      "description": "Reels tab in navigation"
+    },
+    {
+      "package": "com.instagram.android",
+      "target": "INSTAGRAM_REELS",
+      "matchType": "VIEW_ID",
+      "value": "com.instagram.android:id/tab_clips",
+      "description": "Reels tab in bottom navigation"
+    },
+    {
+      "package": "com.instagram.android",
+      "target": "INSTAGRAM_REELS",
+      "matchType": "VIEW_ID",
+      "value": "com.instagram.android:id/clips_viewer_view_pager",
+      "description": "Reels player ViewPager"
+    },
+    {
+      "package": "com.instagram.android",
+      "target": "INSTAGRAM_REELS",
+      "matchType": "VIEW_ID",
+      "value": "com.instagram.android:id/clips_swipe_refresh_container",
+      "description": "Reels swipe refresh container"
+    },
+    {
+      "package": "com.google.android.youtube",
+      "target": "YOUTUBE_SHORTS",
+      "matchType": "VIEW_ID",
+      "value": "com.google.android.youtube:id/reel_player_page_container",
+      "description": "Shorts player container"
+    },
+    {
+      "package": "com.google.android.youtube",
+      "target": "YOUTUBE_SHORTS",
+      "matchType": "VIEW_ID",
+      "value": "com.google.android.youtube:id/reel_recycler",
+      "description": "Shorts vertical recycler"
+    },
+    {
+      "package": "com.google.android.youtube",
+      "target": "YOUTUBE_SHORTS",
+      "matchType": "VIEW_ID",
+      "value": "com.google.android.youtube:id/shorts_player_container",
+      "description": "Shorts player container (alt)"
+    },
+    {
+      "package": "com.google.android.youtube",
+      "target": "YOUTUBE_SHORTS",
+      "matchType": "VIEW_ID",
+      "value": "com.google.android.youtube:id/reel_watch_player",
+      "description": "Shorts watch player"
+    },
+    {
+      "package": "com.zhiliaoapp.musically",
+      "target": "TIKTOK",
+      "matchType": "TEXT",
+      "value": "(?i)for you",
+      "description": "For You tab text"
+    },
+    {
+      "package": "com.ss.android.ugc.trill",
+      "target": "TIKTOK",
+      "matchType": "TEXT",
+      "value": "(?i)for you",
+      "description": "For You tab text (TikTok regional variant)"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrollStop</string>
+    <string name="accessibility_service_description">ScrollStop monitors Instagram, YouTube, and TikTok to detect short-form video feeds (Reels, Shorts, TikToks) and blocks them to help you avoid doomscrolling. Your data never leaves your device.</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome_title">Take Control of Your Scrolling</string>
+    <string name="onboarding_welcome_description">ScrollStop detects and blocks Reels, Shorts, and TikToks before you fall into the doomscroll trap.</string>
+    <string name="onboarding_how_it_works_title">How It Works</string>
+    <string name="onboarding_how_step1">We use Android\'s Accessibility Service to watch for short-form video feeds</string>
+    <string name="onboarding_how_step2">When detected, we immediately navigate you away and show a reminder</string>
+    <string name="onboarding_how_step3">Your data never leaves your device</string>
+    <string name="onboarding_permission_title">Enable Accessibility Service</string>
+    <string name="onboarding_permission_description">This is the only way to detect content inside other apps. We never read your messages, passwords, or personal data.</string>
+    <string name="onboarding_permission_button">Enable Accessibility Service</string>
+    <string name="onboarding_configure_title">Choose What to Block</string>
+    <string name="onboarding_get_started">Get Started</string>
+
+    <!-- Home -->
+    <string name="protection_active">Protection Active</string>
+    <string name="protection_inactive">Protection Inactive</string>
+    <string name="today_blocks">Today\'s Blocks</string>
+    <string name="total_blocks">Total Blocks</string>
+    <string name="time_saved">Time Saved</string>
+    <string name="instagram_reels">Instagram Reels</string>
+    <string name="youtube_shorts">YouTube Shorts</string>
+    <string name="tiktok">TikTok</string>
+
+    <!-- Overlay -->
+    <string name="blocked_title">Doomscrolling Blocked</string>
+    <string name="blocked_message">ScrollStop prevented you from watching %s</string>
+    <string name="btn_dismiss">Got it</string>
+    <string name="btn_allow_temporary">Allow 5 minutes</string>
+    <string name="btn_open_app">Open ScrollStop</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="blocking_mode">Blocking Mode</string>
+    <string name="schedule">Schedule</string>
+    <string name="daily_allowance">Daily Allowance</string>
+    <string name="about">About</string>
+    <string name="accessibility_service_status">Accessibility Service Status</string>
+    <string name="service_enabled">Service is running</string>
+    <string name="service_disabled">Service is not running. Tap to enable.</string>
+
+    <!-- Stats -->
+    <string name="stats">Statistics</string>
+    <string name="weekly_overview">Weekly Overview</string>
+    <string name="monthly_trend">Monthly Trend</string>
+    <string name="all_time">All Time</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_service">Protection Status</string>
+    <string name="notification_channel_blocks">Block Notifications</string>
+    <string name="notification_channel_reports">Daily Reports</string>
+    <string name="notification_service_title">ScrollStop is active</string>
+    <string name="notification_service_text">Protecting you from doomscrolling</string>
+</resources>
