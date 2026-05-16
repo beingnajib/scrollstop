@@ -29,4 +29,4 @@ Any configuration data (such as app preferences, protection status, and block st
 The App does not integrate any third-party analytics or advertising SDKs.
 
 ## 5. Contact Us
-If you have any questions or concerns about this privacy policy, please contact us at: **[YOUR CONTACT EMAIL]**
+If you have any questions or concerns about this privacy policy, please contact us at: **hello@najibdigital.com**
